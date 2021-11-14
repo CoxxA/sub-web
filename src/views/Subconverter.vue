@@ -276,6 +276,11 @@ export default {
             label: "ACL4SSR",
             options: [
               {
+                label: "ACL4SSR_Online_Full 全分组CoxxA版 重度用户使用(与Github同步)",
+                value:
+                  "https://raw.githubusercontent.com/CoxxA/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
+              },
+              {
                 label: "ACL4SSR_Online 默认版 分组比较全(与Github同步)",
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
